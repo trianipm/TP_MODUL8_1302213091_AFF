@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace TP_MODUL8_1302213091_AFF
+{
+    class covid_config
+  {
+    "satuan suhu": "CONFIG1",
+    "batas hari deman": "CONFIG2",
+    "pesan ditolak": "CONFIG3",
+    "pesan diterima": "CONFIG4"
+  }
+}
